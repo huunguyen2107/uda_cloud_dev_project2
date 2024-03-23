@@ -16,8 +16,7 @@ To complete this project, you will need to:
 * Deploying your system
 
 ## Testing
-
-Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
+http://uda-cloud-dev-project2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/757889/pexels-photo-757889.jpeg?auto=compress&cs=tinysrgb&w=800
 
 ## License
 
